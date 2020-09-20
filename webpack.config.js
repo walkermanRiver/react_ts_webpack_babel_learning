@@ -4,6 +4,7 @@ module.exports = {
         path: __dirname + '/public',
         filename: 'build/app.js'
     },
+    devtool: "source-map",
     resolve: {
         extensions: ['.ts', '.tsx', '.js']
     },

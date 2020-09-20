@@ -26,12 +26,5 @@
     "webpack-cli": "^3.3.12",
     "webpack": "^4.44.2",
     "webpack-dev-server": "^3.11.0"
-  },
-  "babel": {
-    "presets": [
-      "@babel/preset-env",
-      "@babel/preset-react",
-      "@babel/preset-typescript"
-    ]
-  }
+  }  
 }
